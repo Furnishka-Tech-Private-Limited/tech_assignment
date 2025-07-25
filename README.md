@@ -40,6 +40,7 @@ A self-serve starter kit to evaluate your ability to interact with Meta’s Grap
 - Retry logic on transient API failures.
 - Clean, commented code adhering to best practices.
 - A concise README with setup, usage, and submission instructions.
+- Use AI tools at your ease
 
 ## Steps to Follow
 1. Read through the assignment goals and expectations.
