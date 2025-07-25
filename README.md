@@ -139,7 +139,7 @@ python -m src.fetcher --since 2025-07-01T00:00:00+0000 --output json
 
 ## Publishing to GitHub
 
-1. **Create the repository** on GitHub named `furnishka-meta-lead-fetcher-boilerplate` (skip README init).
+1. **Create the repository** on GitHub named `tech_assignment` (skip README init).
 2. **Initialize & Push**:
 
    ```bash
@@ -147,7 +147,7 @@ python -m src.fetcher --since 2025-07-01T00:00:00+0000 --output json
    git add .
    git commit -m "Initial boilerplate commit"
    git branch -M main
-   git remote add origin https://github.com/<your-org>/furnishka-meta-lead-fetcher-boilerplate.git
+   git remote add origin https://github.com/<your-org>/tech_assignment.git
    git push -u origin main
    ```
 3. **Verify** `.env` is in `.gitignore` to avoid leaking credentials.
