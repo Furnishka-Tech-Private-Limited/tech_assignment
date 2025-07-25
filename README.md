@@ -1,4 +1,4 @@
-# Repository: furnishka-meta-lead-fetcher-boilerplate
+Furnishka-meta-lead-fetcher-boilerplate
 
 
 ## README.md
