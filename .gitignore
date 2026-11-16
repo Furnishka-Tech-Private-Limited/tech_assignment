@@ -1,9 +1,0 @@
-# Environment
-.env
-
-# Python
-__pycache__/
-*.pyc
-
-# Data files
-data/*.db
