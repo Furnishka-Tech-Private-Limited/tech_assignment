@@ -1,0 +1,260 @@
+lead_id,first_name,last_name,email,phone,company,company_size,industry,country,source,lead_status,created_date,owner
+L0001,Emma,Roy,emma.roy@zen-studio-41.example.com,(885) 555-6147,Zen Studio 41,150,Healthcare,USA,Paid Search,Converted,2026-04-09,a.rao
+L0002,Priya,Fox,priya.fox@summit-finance-27.example.com,+91 9877834855,Summit Finance 27,150,Retail,USA,Website,New,2026-11-11,m.chen
+L0003,Kabir,Silva,kabir.silva@cedar-studio-2.example.com,+91 9820099059,Cedar Studio 2,25,Manufacturing,Germany,Webinar,New,2026-06-29,k.dsouza
+L0004,Omar,Costa,omar.costa@summit-systems-21.example.com,(239) 555-8711,Summit Systems 21,25,Retail,US,Referral,New,2026-10-13,k.dsouza
+L0005,Lucas,Smith,lucas.smith@nova-finance-83.example.com,,Nova Finance 83,1200,Software,USA,Webinar,Converted,2025-11-24,m.chen
+L0006,Noah,Brown,noah.brown@cedar-foods-87.example.com,12345,Cedar Foods 87,40,Software,USA,Referral,CONVERTED,2026-06-02,s.ali
+L0007,Nina,Fox,nina.fox@north-works-54.example.com,12345,North Works 54,3000,Healthcare,India,Outbound,NEW,2025-04-01,a.rao
+L0008,Arjun,Silva,arjun.silva@zen-finance-97.example.com,12345,Zen Finance 97,650,Manufacturing,UK,Webinar,New,2026-08-08,s.ali
+L0009,Nina,Mehta,nina.mehta@nova-works-10.example.com,,Nova Works 10,150,Software,india,Webinar,qualified,2026-08-29,s.ali
+L0010,Rohan,Costa,rohan.costa@pioneer-studio-78.example.com,12345,Pioneer Studio 78,80,Retail,US,Partner,New,2026-08-17,s.ali
+L0011,Liam,Costa,liam.costa@bright-works-24.example.com,(588) 555-6363,Bright Works 24,12,Financial Services,United Kingdom,Referral,New,2026-09-19,m.chen
+L0012,Maya,Singh,maya.singh@summit-health-84.example.com,+91 9814164775,Summit Health 84,12,Healthcare,india,Paid Search,Qualified,2026-09-28,
+L0013,Ethan,Smith,ethan.smith@zen-retail-14.example.com,,Zen Retail 14,150,Education,US,Website,new,2026-09-08,
+L0014,Kabir,Khan,kabir.khan@cedar-labs-94.example.com,12345,Cedar Labs 94,1200,Education,UAE,Referral,New,2026-10-01,k.dsouza
+L0015,Kabir,Roy,kabir.roy@zen-foods-44.example.com,12345,Zen Foods 44,12,Financial Services,US,Referral,Converted,2025-11-16,
+L0016,Ethan,Müller,ethan.muller@north-studio-98.example.com,,North Studio 98,40,Manufacturing,UAE,Referral,Qualified,2026-09-12,k.dsouza
+L0017,Maya,Rossi,maya.rossi@orbit-health-9.example.com,(275) 555-1878,Orbit Health 9,400,Manufacturing,USA,Website,New,2026-10-11,a.rao
+L0018,Dev,Costa,dev.costa@nova-mobility-80.example.com,(957) 555-2625,Nova Mobility 80,12,Financial Services,IN,Webinar,QUALIFIED,2026-08-07,k.dsouza
+L0019,Lucas,Khan,lucas.khan@north-logistics-22.example.com,12345,North Logistics 22,150,Education,USA,Partner,Converted,2026-02-23,m.chen
+L0020,Dev,Costa,dev.costa@orbit-health-61.example.com,+91 9864807553,Orbit Health 61,250,Financial Services,United Kingdom,Partner,new,2026-09-09,m.chen
+L0021,Aarav,Silva,aarav.silva@orbit-foods-7.example.com,12345,Orbit Foods 7,80,Healthcare,USA,Trade Show,CONVERTED,2026-07-12,m.chen
+L0022,Arjun,Khan,arjun.khan@north-systems-99.example.com,+91 9855617282,North Systems 99,400,Financial Services,UAE,Trade Show,Converted,2025-10-15,s.ali
+L0023,Maya,Khan,maya.khan@pioneer-mobility-43.example.com,12345,Pioneer Mobility 43,,Healthcare,United Kingdom,Outbound,New,2026-05-03,k.dsouza
+L0024,Priya,Sharma,priya.sharma@blue-finance-8.example.com,(583) 555-8056,Blue Finance 8,150,Retail,UAE,Partner,new,2026-10-19,k.dsouza
+L0025,Zara,Walker,zara.walker@zen-labs-30.example.com,,Zen Labs 30,650,Retail,USA,Partner,lost,2025-11-02,k.dsouza
+L0026,Dev,Iyer,dev.iyer@nova-logistics-85.example.com,12345,Nova Logistics 85,400,Financial Services,United States,Trade Show,New,2026-07-19,k.dsouza
+L0027,Lucas,Nguyen,lucas.nguyen@nova-works-38.example.com,(679) 555-2233,Nova Works 38,250,Healthcare,United Kingdom,Outbound,New,01/09/2026,m.chen
+L0028,Kabir,Singh,kabir.singh@nova-mobility-49.example.com,12345,Nova Mobility 49,,Manufacturing,US,Trade Show,New,2026-10-14,
+L0029,Priya,Costa,priya.costa@north-labs-6.example.com,+91 9850851122,North Labs 6,12,Manufacturing,india,Paid Search,Converted,2026-01-28,m.chen
+L0030,Kabir,Smith,kabir.smith@summit-mobility-3.example.com,(449) 555-3063,Summit Mobility 3,12,Manufacturing,United States,Trade Show,Converted,2026-05-30,k.dsouza
+L0031,Chloe,Kapoor,chloe.kapoor@zen-health-58.example.com,,Zen Health 58,1200,Software,India,Paid Search,Converted,2025-07-11,s.ali
+L0032,Omar,Costa,omar.costa@apex-systems-48.example.com,+91 9873655158,Apex Systems 48,40,Software,US,Outbound,Converted,2026-07-13,
+L0033,Isha,Rossi,isha.rossi@nova-finance-45.example.com,+91 9834347841,Nova Finance 45,12,Education,India,Website,Qualified,30-Mar-2026,
+L0034,Sofia,Iyer,sofia.iyer@zen-works-68.example.com,+91 9816095815,Zen Works 68,,Financial Services,United States,Outbound,DISQUALIFIED,2026-05-30,m.chen
+L0035,Liam,Müller,liam.muller@zen-foods-74.example.com,+91 9895918360,Zen Foods 74,400,Financial Services,india,Outbound,Working,2026-05-12,s.ali
+L0036,Noah,Mehta,noah.mehta@north-labs-33.example.com,+91 9833286644,North Labs 33,80,Education,UK,Paid Search,Qualified,2026-03-28,
+L0037,Kabir,Roy,kabir.roy@pioneer-logistics-58.example.com,12345,Pioneer Logistics 58,3000,Software,UK,Website,Converted,2025-07-29,m.chen
+L0038,Noah,Singh,noah.singh@nova-foods-17.example.com,,Nova Foods 17,3000,Education,Germany,Website,Converted,2025-10-22,
+L0039,Priya,Das,priya.das@summit-studio-31.example.com,12345,Summit Studio 31,150,Financial Services,United Kingdom,Trade Show,Converted,21/12/2025,s.ali
+L0040,Kabir,Singh,kabir.singh@blue-foods-7.example.com,12345,Blue Foods 7,400,Financial Services,United States,Website,Qualified,2026-07-18,a.rao
+L0041,Zara,Costa,zara.costa@zen-works-9.example.com,+91 9877085942,Zen Works 9,25,Manufacturing,United States,Partner,Converted,06/07/2026,m.chen
+L0042,Chloe,Mehta,chloe.mehta@north-mobility-95.example.com,,North Mobility 95,250,Healthcare,UK,Partner,New,11-Sep-2026,
+L0043,Maya,Iyer,maya.iyer@summit-logistics-26.example.com,12345,Summit Logistics 26,12,Manufacturing,UK,Referral,New,2026-11-07,
+L0044,Maya,Müller,maya.muller@nova-health-48.example.com,12345,Nova Health 48,400,Healthcare,UK,Partner,Working,2026-06-12,m.chen
+L0045,Lucas,Patel,lucas.patel@north-foods-47.example.com,12345,North Foods 47,,Software,United States,Outbound,New,2026-08-21,m.chen
+L0046,Chloe,Das,chloe.das@north-mobility-18.example.com,,North Mobility 18,1200,Software,India,Partner,New,2026-10-19,s.ali
+L0047,Nina,Brown,nina.brown@north-labs-10.example.com,+91 9833173544,North Labs 10,650,Financial Services,US,Partner,New,2026-11-03,
+L0048,Zara,Garcia,zara.garcia@summit-labs-31.example.com,12345,Summit Labs 31,650,Manufacturing,india,Trade Show,Working,2026-09-25,a.rao
+L0049,Priya,Smith,priya.smith@nova-retail-82.example.com,+91 9846836194,Nova Retail 82,1200,Healthcare,UAE,Trade Show,Converted,2026-07-01,k.dsouza
+L0050,Ethan,Müller,ethan.muller@zen-labs-41.example.com,,Zen Labs 41,250,Software,US,Webinar,working,2026-06-20,a.rao
+L0051,Zara,Brown,zara.brown@zen-finance-7.example.com,,Zen Finance 7,12,Software,United Kingdom,Webinar,Working,2026-08-11,
+L0052,Noah,Brown,noah.brown@zen-studio-52.example.com,(246) 555-1637,Zen Studio 52,1200,Retail,Germany,Paid Search,New,2026-10-23,
+L0053,Arjun,Silva,arjun.silva@orbit-mobility-39.example.com,+91 9812232974,Orbit Mobility 39,650,Manufacturing,USA,Outbound,Working,2026-05-09,a.rao
+L0054,Emma,Kapoor,emma.kapoor@zen-works-95.example.com,,Zen Works 95,12,Retail,Germany,Paid Search,New,2025-11-21,k.dsouza
+L0055,Olivia,Iyer,olivia.iyer@summit-systems-99.example.com,,Summit Systems 99,150,Manufacturing,USA,Referral,Converted,2026-07-17,
+L0056,Olivia,Rossi,olivia.rossi@bright-health-79.example.com,(448) 555-1831,Bright Health 79,3000,Software,IN,Paid Search,Converted,01-Apr-2026,
+L0057,Nina,Nguyen,nina.nguyen@nova-logistics-2.example.com,,Nova Logistics 2,150,Education,Germany,Trade Show,New,2026-09-09,k.dsouza
+L0058,Omar,Iyer,omar.iyer@zen-retail-23.example.com,,Zen Retail 23,3000,Education,IN,Webinar,Converted,2026-07-08,s.ali
+L0059,Noah,Walker,noah.walker@bright-works-96.example.com,12345,Bright Works 96,3000,Education,United States,Outbound,NEW,2026-10-11,
+L0060,Noah,Nguyen,noah.nguyen@apex-studio-57.example.com,+91 9837568520,Apex Studio 57,25,Retail,India,Paid Search,Working,2026-09-14,
+L0061,Emma,Singh,emma.singh@cedar-works-49.example.com,(899) 555-9835,Cedar Works 49,400,Financial Services,IN,Webinar,Lost,2025-11-06,s.ali
+L0062,Maya,Costa,maya.costa@zen-logistics-31.example.com,12345,Zen Logistics 31,80,Education,India,Webinar,Converted,2025-09-03,a.rao
+L0063,Olivia,Roy,olivia.roy@bright-foods-72.example.com,,Bright Foods 72,650,Retail,india,Referral,Qualified,2026-07-03,k.dsouza
+L0064,Dev,Silva,dev.silva@summit-works-27.example.com,(215) 555-4470,Summit Works 27,250,Software,UK,Webinar,Converted,2025-09-26,
+L0065,Noah,Brown,noah.brown@apex-retail-49.example.com,,Apex Retail 49,3000,Retail,UK,Paid Search,Converted,2026-06-23,
+L0066,Zara,Smith,zara.smith@bright-logistics-28.example.com,12345,Bright Logistics 28,1200,Software,India,Trade Show,Converted,2025-12-09,s.ali
+L0067,Maya,Smith,maya.smith@cedar-foods-49.example.com,(257) 555-1154,Cedar Foods 49,1200,Retail,US,Trade Show,New,2026-10-30,
+L0068,Dev,Walker,dev.walker@nova-logistics-10.example.com,(777) 555-1539,Nova Logistics 10,150,Financial Services,India,Webinar,New,2026-08-28,k.dsouza
+L0069,Olivia,Müller,olivia.muller@cedar-labs-89.example.com,+91 9877215278,Cedar Labs 89,25,Healthcare,IN,Referral,Working,2026-05-16,
+L0070,Rohan,Müller,rohan.muller@apex-health-12.example.com,,Apex Health 12,12,Software,india,Paid Search,Working,2026-06-25,
+L0071,Dev,Kapoor,dev.kapoor@bright-foods-22.example.com,12345,Bright Foods 22,40,Healthcare,United Kingdom,Referral,New,2026-09-19,m.chen
+L0072,Hana,Fox,hana.fox@summit-works-14.example.com,,Summit Works 14,40,Retail,US,Paid Search,Lost,2026-02-18,s.ali
+L0073,Nina,Roy,nina.roy@summit-finance-49.example.com,(573) 555-2865,Summit Finance 49,150,Manufacturing,india,Partner,Converted,2025-08-20,
+L0074,Hana,Smith,hana.smith@north-retail-85.example.com,12345,North Retail 85,250,Financial Services,United Kingdom,Website,Working,2026-10-15,a.rao
+L0075,Kabir,Das,kabir.das@apex-health-39.example.com,+91 9825446483,Apex Health 39,12,Healthcare,United States,Trade Show,Converted,2026-06-20,
+L0076,Rohan,Fox,rohan.fox@cedar-mobility-15.example.com,,Cedar Mobility 15,250,Manufacturing,IN,Partner,New,2026-09-13,m.chen
+L0077,Omar,Das,omar.das@zen-logistics-46.example.com,12345,Zen Logistics 46,12,Manufacturing,UK,Paid Search,New,2025-05-15,s.ali
+L0078,Isha,Das,isha.das@zen-works-71.example.com,,Zen Works 71,1200,Financial Services,Germany,Outbound,Qualified,2026-10-17,
+L0079,Dev,Singh,dev.singh@zen-foods-22.example.com,+91 9828687800,Zen Foods 22,3000,Manufacturing,USA,Trade Show,Working,2026-06-02,k.dsouza
+L0080,Liam,Smith,liam.smith@cedar-studio-96.example.com,,Cedar Studio 96,150,Education,IN,Partner,New,2026-09-14,
+L0081,Omar,Iyer,omar.iyer@apex-studio-74.example.com,+91 9885986307,Apex Studio 74,,Education,UK,Website,Qualified,2026-09-06,k.dsouza
+L0082,Zara,Kapoor,zara.kapoor@orbit-logistics-2.example.com,12345,Orbit Logistics 2,250,Retail,IN,Partner,Working,2026-09-21,a.rao
+L0083,Sofia,Roy,sofia.roy@cedar-finance-55.example.com,+91 9828767690,Cedar Finance 55,250,Manufacturing,UAE,Partner,Qualified,2026-05-05,m.chen
+L0084,Noah,Lee,noah.lee@zen-foods-47.example.com,+91 9833188838,Zen Foods 47,,Software,India,Referral,New,2026-01-10,a.rao
+L0085,Emma,Costa,emma.costa@cedar-health-82.example.com,,Cedar Health 82,1200,Software,Germany,Webinar,Working,2026-09-08,
+L0086,Lucas,Garcia,lucas.garcia@blue-finance-55.example.com,+91 9880310522,Blue Finance 55,150,Manufacturing,US,Website,New,2026-09-09,
+L0087,Sofia,Roy,sofia.roy@north-retail-95.example.com,(245) 555-1201,North Retail 95,,Financial Services,United Kingdom,Webinar,Disqualified,2026-05-09,a.rao
+L0088,Arjun,Patel,arjun.patel@cedar-health-60.example.com,12345,Cedar Health 60,,Healthcare,USA,Trade Show,Qualified,2026-08-11,
+L0089,Aarav,Lee,aarav.lee@nova-health-27.example.com,+91 9841966313,Nova Health 27,1200,Healthcare,USA,Website,New,2026-11-06,k.dsouza
+L0090,Rohan,Smith,rohan.smith@zen-mobility-8.example.com,,Zen Mobility 8,400,Financial Services,United Kingdom,Partner,NEW,2026-08-09,m.chen
+L0091,Isha,Das,isha.das@orbit-finance-53.example.com,12345,Orbit Finance 53,25,Financial Services,IN,Website,New,2026-10-22,
+L0092,Noah,Smith,noah.smith@summit-finance-51.example.com,,Summit Finance 51,1200,Healthcare,India,Paid Search,converted,2025-07-07,s.ali
+L0093,Kabir,Patel,kabir.patel@bright-mobility-56.example.com,12345,Bright Mobility 56,400,Healthcare,india,Referral,Converted,2026-04-27,s.ali
+L0094,Zara,Sharma,zara.sharma@nova-logistics-61.example.com,(985) 555-4813,Nova Logistics 61,1200,Education,United States,Referral,QUALIFIED,2026-10-13,k.dsouza
+L0095,Aarav,Kapoor,aarav.kapoor@orbit-logistics-43.example.com,(333) 555-6582,Orbit Logistics 43,3000,Financial Services,India,Website,New,2026-10-24,
+L0096,Rohan,Roy,rohan.roy@north-finance-39.example.com,12345,North Finance 39,250,Healthcare,Germany,Partner,New,2026-05-13,m.chen
+L0097,Liam,Müller,liam.muller@orbit-logistics-34.example.com,,Orbit Logistics 34,80,Software,India,Website,Disqualified,2026-01-23,s.ali
+L0098,Zara,Nguyen,zara.nguyen@orbit-health-5.example.com,+91 9812694823,Orbit Health 5,150,Healthcare,United Kingdom,Webinar,Qualified,2026-04-03,a.rao
+L0099,Priya,Mehta,priya.mehta@north-logistics-51.example.com,+91 9883774469,North Logistics 51,3000,Retail,IN,Referral,Disqualified,2025-09-04,
+L0100,Lucas,Smith,lucas.smith@pioneer-foods-24.example.com,12345,Pioneer Foods 24,,Retail,UK,Referral,Converted,25/05/2026,m.chen
+L0101,Arjun,Roy,arjun.roy@pioneer-mobility-87.example.com,(323) 555-8357,Pioneer Mobility 87,3000,Healthcare,United States,Outbound,New,2026-10-18,k.dsouza
+L0102,Emma,Brown,emma.brown@bright-mobility-34.example.com,12345,Bright Mobility 34,250,Financial Services,Germany,Paid Search,Converted,2026-09-11,
+L0103,Maya,Nguyen,maya.nguyen@nova-foods-19.example.com,+91 9891692326,Nova Foods 19,3000,Financial Services,United States,Website,Converted,2025-09-01,s.ali
+L0104,Dev,Sharma,dev.sharma@bright-retail-26.example.com,+91 9843486016,Bright Retail 26,12,Education,United States,Referral,Qualified,05/07/2026,s.ali
+L0105,Nina,Khan,nina.khan@bright-mobility-2.example.com,,Bright Mobility 2,80,Retail,US,Paid Search,WORKING,2026-08-14,k.dsouza
+L0106,Priya,Rossi,priya.rossi@cedar-foods-50.example.com,,Cedar Foods 50,12,Healthcare,Germany,Partner,Converted,12/08/2025,s.ali
+L0107,Dev,Roy,dev.roy@zen-health-61.example.com,,Zen Health 61,80,Healthcare,india,Webinar,new,2026-09-29,s.ali
+L0108,Isha,Müller,isha.muller@blue-logistics-58.example.com,(979) 555-3762,Blue Logistics 58,150,Software,india,Trade Show,qualified,2026-07-08,
+L0109,Maya,Iyer,maya.iyer@nova-works-94.example.com,12345,Nova Works 94,1200,Healthcare,US,Paid Search,Qualified,2026-07-28,k.dsouza
+L0110,Maya,Garcia,maya.garcia@blue-logistics-89.example.com,+91 9865938669,Blue Logistics 89,25,Retail,india,Webinar,Lost,2025-08-18,
+L0111,Hana,Brown,hana.brown@nova-studio-26.example.com,+91 9864996550,Nova Studio 26,250,Healthcare,UK,Referral,Converted,2026-05-20,a.rao
+L0112,Omar,Costa,omar.costa@north-health-98.example.com,,North Health 98,12,Retail,UAE,Referral,Working,2026-09-24,m.chen
+L0113,Hana,Lee,hana.lee@apex-mobility-4.example.com,12345,Apex Mobility 4,40,Software,USA,Partner,Qualified,2026-08-08,a.rao
+L0114,Hana,Patel,hana.patel@blue-labs-65.example.com,12345,Blue Labs 65,650,Financial Services,USA,Website,new,2026-09-08,k.dsouza
+L0115,Sofia,Walker,sofia.walker@blue-health-52.example.com,+91 9814809280,Blue Health 52,400,Manufacturing,UAE,Partner,New,26/11/2025,
+L0116,Kabir,Müller,kabir.muller@pioneer-mobility-77.example.com,+91 9898203489,Pioneer Mobility 77,650,Education,United States,Website,converted,27/03/2026,m.chen
+L0117,Olivia,Costa,olivia.costa@zen-works-66.example.com,+91 9887652255,Zen Works 66,40,Manufacturing,UAE,Referral,Working,2026-06-10,s.ali
+L0118,Isha,Kapoor,isha.kapoor@pioneer-finance-91.example.com,12345,Pioneer Finance 91,25,Manufacturing,USA,Outbound,Converted,2026-02-13,a.rao
+L0119,Omar,Silva,omar.silva@blue-logistics-96.example.com,(835) 555-8259,Blue Logistics 96,150,Education,US,Outbound,Converted,20-Nov-2025,
+L0120,Hana,Patel,hana.patel@zen-systems-63.example.com,,Zen Systems 63,3000,Healthcare,Germany,Website,New,2026-09-08,k.dsouza
+L0121,Omar,Singh,omar.singh@nova-retail-97.example.com,+91 9881202356,Nova Retail 97,3000,Retail,United States,Partner,Converted,2025-11-07,
+L0122,Olivia,Silva,olivia.silva@blue-health-27.example.com,12345,Blue Health 27,80,Software,india,Website,Qualified,2026-06-12,
+L0123,Dev,Patel,dev.patel@north-finance-65.example.com,+91 9848901209,North Finance 65,25,Retail,United Kingdom,Paid Search,Converted,2025-07-24,
+L0124,Chloe,Brown,chloe.brown@cedar-studio-19.example.com,(426) 555-5140,Cedar Studio 19,40,Education,UAE,Outbound,Qualified,2026-09-24,
+L0125,Noah,Roy,noah.roy@zen-finance-41.example.com,(204) 555-6131,Zen Finance 41,400,Education,United Kingdom,Referral,New,2026-09-26,k.dsouza
+L0126,Hana,Smith,hana.smith@nova-labs-69.example.com,+91 9845330756,Nova Labs 69,80,Manufacturing,India,Outbound,Working,2026-05-22,
+L0127,Arjun,Khan,arjun.khan@orbit-labs-23.example.com,12345,Orbit Labs 23,3000,Software,United States,Outbound,New,2026-09-10,k.dsouza
+L0128,Ethan,Kapoor,ethan.kapoor@apex-foods-61.example.com,+91 9816232730,Apex Foods 61,650,Manufacturing,USA,Outbound,New,2025-04-16,m.chen
+L0129,Arjun,Rossi,arjun.rossi@cedar-retail-67.example.com,12345,Cedar Retail 67,400,Software,Germany,Webinar,Converted,2026-02-04,k.dsouza
+L0130,Zara,Patel,zara.patel@bright-mobility-76.example.com,+91 9828082355,Bright Mobility 76,40,Healthcare,India,Webinar,Converted,2026-05-08,k.dsouza
+L0131,Emma,Khan,emma.khan@zen-health-23.example.com,+91 9892510102,Zen Health 23,650,Education,india,Trade Show,working,2026-06-01,a.rao
+L0132,Aarav,Sharma,aarav.sharma@zen-studio-16.example.com,,Zen Studio 16,1200,Software,india,Paid Search,New,2026-08-20,
+L0133,Rohan,Brown,rohan.brown@cedar-studio-72.example.com,,Cedar Studio 72,650,Manufacturing,US,Outbound,Converted,2025-09-21,s.ali
+L0134,Hana,Patel,hana.patel@bright-works-57.example.com,,Bright Works 57,12,Manufacturing,Germany,Trade Show,Lost,2025-08-16,k.dsouza
+L0135,Olivia,Roy,olivia.roy@apex-finance-36.example.com,12345,Apex Finance 36,80,Financial Services,india,Paid Search,New,2026-09-08,a.rao
+L0136,Kabir,Lee,kabir.lee@zen-works-99.example.com,+91 9855588495,Zen Works 99,80,Financial Services,IN,Paid Search,Qualified,2026-09-01,
+L0137,Isha,Brown,isha.brown@orbit-retail-31.example.com,(411) 555-4755,Orbit Retail 31,80,Manufacturing,US,Webinar,New,2026-10-29,a.rao
+L0138,Hana,Sharma,hana.sharma@pioneer-logistics-62.example.com,,Pioneer Logistics 62,250,Manufacturing,USA,Paid Search,Converted,2026-05-27,
+L0139,Emma,Singh,emma.singh@apex-foods-36.example.com,(785) 555-3148,Apex Foods 36,650,Education,USA,Outbound,Converted,2026-05-20,
+L0140,Chloe,Fox,chloe.fox@summit-mobility-74.example.com,,Summit Mobility 74,1200,Retail,UK,Website,New,2026-09-24,
+L0141,Emma,Fox,emma.fox@zen-foods-10.example.com,,Zen Foods 10,25,Financial Services,USA,Trade Show,QUALIFIED,2026-07-18,m.chen
+L0142,Nina,Silva,nina.silva@blue-logistics-99.example.com,+91 9880327779,Blue Logistics 99,400,Healthcare,IN,Partner,Qualified,2026-06-30,m.chen
+L0143,Hana,Das,hana.das@zen-foods-68.example.com,(555) 555-8891,Zen Foods 68,1200,Retail,USA,Referral,New,2026-07-04,m.chen
+L0144,Aarav,Silva,aarav.silva@apex-retail-53.example.com,(604) 555-5094,Apex Retail 53,1200,Education,United Kingdom,Outbound,Converted,2026-03-08,k.dsouza
+L0145,Noah,Das,noah.das@blue-retail-12.example.com,,Blue Retail 12,40,Retail,US,Paid Search,Qualified,2026-10-19,m.chen
+L0146,Kabir,Mehta,kabir.mehta@blue-retail-59.example.com,12345,Blue Retail 59,25,Financial Services,US,Webinar,New,2026-08-23,
+L0147,Sofia,Rossi,sofia.rossi@orbit-systems-26.example.com,+91 9816991067,Orbit Systems 26,250,Retail,US,Website,Qualified,2026-08-26,m.chen
+L0148,Maya,Singh,maya.singh@bright-studio-14.example.com,,Bright Studio 14,40,Retail,United States,Website,Converted,2025-09-30,s.ali
+L0149,Ethan,Kapoor,ethan.kapoor@orbit-studio-20.example.com,,Orbit Studio 20,3000,Manufacturing,IN,Website,New,2026-10-26,k.dsouza
+L0150,Sofia,Patel,sofia.patel@zen-foods-85.example.com,+91 9880574548,Zen Foods 85,650,Manufacturing,IN,Website,Working,2026-08-25,
+L0151,Dev,Nguyen,dev.nguyen@pioneer-studio-54.example.com,12345,Pioneer Studio 54,25,Retail,IN,Webinar,Disqualified,2026-05-08,
+L0152,Rohan,Silva,rohan.silva@nova-finance-58.example.com,,Nova Finance 58,650,Manufacturing,india,Referral,Converted,2026-09-14,m.chen
+L0153,Omar,Walker,omar.walker@bright-works-89.example.com,+91 9822799546,Bright Works 89,3000,Manufacturing,United Kingdom,Website,Qualified,2026-10-13,m.chen
+L0154,Rohan,Das,rohan.das@zen-mobility-65.example.com,12345,Zen Mobility 65,25,Financial Services,IN,Paid Search,Qualified,2026-10-15,
+L0155,Lucas,Costa,lucas.costa@apex-mobility-12.example.com,,Apex Mobility 12,25,Financial Services,UAE,Partner,New,2026-11-08,m.chen
+L0156,Kabir,Fox,kabir.fox@bright-works-6.example.com,(901) 555-7124,Bright Works 6,80,Software,IN,Partner,new,2026-11-05,k.dsouza
+L0157,Omar,Brown,omar.brown@pioneer-retail-27.example.com,12345,Pioneer Retail 27,1200,Healthcare,India,Paid Search,New,2026-05-21,
+L0158,Omar,Walker,omar.walker@zen-studio-12.example.com,+91 9836692577,Zen Studio 12,,Manufacturing,USA,Referral,qualified,2026-06-04,s.ali
+L0159,Hana,Mehta,hana.mehta@cedar-retail-74.example.com,12345,Cedar Retail 74,40,Healthcare,india,Trade Show,New,2026-09-03,
+L0160,Arjun,Khan,arjun.khan@cedar-labs-84.example.com,+91 9831212832,Cedar Labs 84,3000,Healthcare,India,Outbound,New,2026-10-02,s.ali
+L0161,Lucas,Khan,lucas.khan@summit-health-17.example.com,(980) 555-5372,Summit Health 17,40,Healthcare,India,Referral,New,2026-11-01,
+L0162,Rohan,Walker,rohan.walker@orbit-labs-21.example.com,+91 9840369856,Orbit Labs 21,80,Retail,United States,Partner,Converted,09-Oct-2025,k.dsouza
+L0163,Arjun,Patel,arjun.patel@summit-systems-57.example.com,(492) 555-8558,Summit Systems 57,400,Manufacturing,India,Partner,New,2026-09-06,k.dsouza
+L0164,Olivia,Khan,olivia.khan@cedar-foods-42.example.com,(383) 555-8433,Cedar Foods 42,650,Software,USA,Referral,New,11-May-2025,
+L0165,Arjun,Fox,arjun.fox@bright-foods-71.example.com,,Bright Foods 71,400,Education,india,Webinar,CONVERTED,2026-07-05,k.dsouza
+L0166,Olivia,Rossi,olivia.rossi@zen-studio-27.example.com,,Zen Studio 27,,Software,UAE,Outbound,New,2026-08-26,m.chen
+L0167,Hana,Roy,hana.roy@pioneer-labs-59.example.com,,Pioneer Labs 59,3000,Retail,IN,Outbound,New,2026-09-18,
+L0168,Lucas,Müller,lucas.muller@pioneer-foods-68.example.com,+91 9838058347,Pioneer Foods 68,80,Education,Germany,Website,converted,2026-01-13,
+L0169,Sofia,Brown,sofia.brown@zen-foods-53.example.com,+91 9854800838,Zen Foods 53,12,Education,USA,Referral,new,2026-11-03,m.chen
+L0170,Dev,Fox,dev.fox@blue-labs-25.example.com,12345,Blue Labs 25,250,Education,india,Paid Search,New,2026-10-23,
+L0171,Maya,Kapoor,maya.kapoor@nova-mobility-93.example.com,(748) 555-1306,Nova Mobility 93,250,Financial Services,US,Website,New,2026-02-13,m.chen
+L0172,Rohan,Nguyen,rohan.nguyen@zen-health-97.example.com,,Zen Health 97,150,Retail,United States,Referral,QUALIFIED,2026-06-14,m.chen
+L0173,Maya,Das,maya.das@cedar-studio-15.example.com,,Cedar Studio 15,12,Software,IN,Trade Show,Qualified,2026-08-09,a.rao
+L0174,Omar,Rossi,omar.rossi@bright-systems-74.example.com,,Bright Systems 74,80,Software,india,Website,Converted,2026-01-19,
+L0175,Nina,Mehta,nina.mehta@summit-labs-79.example.com,,Summit Labs 79,150,Financial Services,UK,Paid Search,Converted,2026-09-02,a.rao
+L0176,Omar,Brown,omar.brown@zen-foods-56.example.com,(757) 555-4869,Zen Foods 56,3000,Software,UAE,Outbound,New,2026-09-10,a.rao
+L0177,Hana,Lee,hana.lee@apex-works-83.example.com,+91 9822151134,Apex Works 83,12,Education,india,Paid Search,New,2026-09-04,m.chen
+L0178,Dev,Iyer,dev.iyer@cedar-finance-12.example.com,12345,Cedar Finance 12,3000,Financial Services,India,Referral,Qualified,2026-10-14,a.rao
+L0179,Emma,Khan,emma.khan@nova-labs-18.example.com,(863) 555-1257,Nova Labs 18,12,Retail,United Kingdom,Webinar,Qualified,2026-10-06,k.dsouza
+L0180,Dev,Singh,dev.singh@blue-logistics-73.example.com,+91 9859469782,Blue Logistics 73,650,Education,Germany,Outbound,Qualified,2026-08-17,s.ali
+L0181,Nina,Roy,nina.roy@apex-foods-46.example.com,,Apex Foods 46,150,Manufacturing,USA,Website,Converted,2025-10-30,s.ali
+L0182,Zara,Walker,zara.walker@bright-studio-5.example.com,12345,Bright Studio 5,250,Retail,United Kingdom,Webinar,Converted,14-Oct-2025,s.ali
+L0183,Emma,Fox,emma.fox@nova-finance-35.example.com,12345,Nova Finance 35,150,Education,United States,Partner,LOST,2025-08-29,
+L0184,Sofia,Garcia,sofia.garcia@north-mobility-17.example.com,+91 9898099795,North Mobility 17,400,Financial Services,USA,Paid Search,New,2026-08-19,a.rao
+L0185,Liam,Rossi,liam.rossi@blue-foods-50.example.com,(464) 555-5336,Blue Foods 50,250,Retail,United States,Trade Show,Qualified,2026-07-19,k.dsouza
+L0186,Omar,Lee,omar.lee@zen-logistics-66.example.com,+91 9874174787,Zen Logistics 66,650,Software,United Kingdom,Partner,WORKING,2026-06-16,a.rao
+L0187,Dev,Mehta,dev.mehta@orbit-foods-9.example.com,12345,Orbit Foods 9,1200,Software,India,Referral,Converted,2026-08-20,m.chen
+L0188,Liam,Brown,liam.brown@cedar-finance-95.example.com,(323) 555-9943,Cedar Finance 95,400,Healthcare,India,Trade Show,NEW,2026-10-20,m.chen
+L0189,Isha,Singh,isha.singh@pioneer-labs-57.example.com,+91 9888112812,Pioneer Labs 57,80,Education,UAE,Paid Search,new,2026-10-22,a.rao
+L0190,Nina,Khan,nina.khan@summit-labs-82.example.com,(661) 555-7750,Summit Labs 82,150,Manufacturing,India,Trade Show,Qualified,2026-09-11,
+L0191,Zara,Das,zara.das@summit-systems-7.example.com,12345,Summit Systems 7,80,Education,India,Website,Qualified,2026-07-26,m.chen
+L0192,Zara,Garcia,zara.garcia@apex-retail-13.example.com,(404) 555-7152,Apex Retail 13,80,Manufacturing,UK,Website,New,2026-06-28,k.dsouza
+L0193,Isha,Roy,isha.roy@pioneer-retail-12.example.com,12345,Pioneer Retail 12,400,Financial Services,India,Partner,New,2026-09-18,
+L0194,Zara,Roy,zara.roy@bright-mobility-1.example.com,+91 9815935671,Bright Mobility 1,400,Retail,UK,Outbound,new,2025-05-09,a.rao
+L0195,Liam,Sharma,liam.sharma@orbit-systems-21.example.com,12345,Orbit Systems 21,650,Healthcare,United Kingdom,Webinar,qualified,2026-07-25,
+L0196,Maya,Kapoor,maya.kapoor@apex-logistics-15.example.com,,Apex Logistics 15,400,Education,Germany,Partner,Converted,2026-08-14,
+L0197,Liam,Brown,liam.brown@orbit-health-11.example.com,+91 9833999716,Orbit Health 11,400,Software,india,Paid Search,Qualified,2026-08-30,k.dsouza
+L0198,Dev,Kapoor,dev.kapoor@pioneer-works-59.example.com,(335) 555-6021,Pioneer Works 59,150,Healthcare,UK,Referral,New,2026-10-06,a.rao
+L0199,Isha,Fox,isha.fox@bright-studio-37.example.com,(925) 555-3514,Bright Studio 37,40,Software,US,Trade Show,Disqualified,2026-06-05,s.ali
+L0200,Noah,Das,noah.das@apex-labs-1.example.com,12345,Apex Labs 1,1200,Manufacturing,india,Outbound,converted,2025-12-02,
+L0201,Liam,Kapoor,liam.kapoor@cedar-retail-63.example.com,+91 9890956358,Cedar Retail 63,250,Financial Services,United Kingdom,Webinar,Disqualified,2025-08-07,s.ali
+L0202,Emma,Costa,emma.costa@bright-mobility-77.example.com,12345,Bright Mobility 77,25,Manufacturing,US,Website,New,2025-07-02,s.ali
+L0203,Noah,Brown,noah.brown@bright-foods-38.example.com,,Bright Foods 38,1200,Education,UK,Webinar,Converted,2026-09-04,a.rao
+L0204,Chloe,Kapoor,chloe.kapoor@zen-logistics-34.example.com,,Zen Logistics 34,40,Education,india,Referral,New,2026-10-22,a.rao
+L0205,Arjun,Smith,arjun.smith@pioneer-retail-99.example.com,,Pioneer Retail 99,40,Education,USA,Referral,Qualified,2026-07-27,a.rao
+L0206,Sofia,Costa,sofia.costa@orbit-health-15.example.com,,Orbit Health 15,40,Healthcare,UK,Trade Show,New,06/09/2026,m.chen
+L0207,Zara,Khan,zara.khan@bright-retail-40.example.com,12345,Bright Retail 40,40,Software,IN,Website,Qualified,2026-06-26,s.ali
+L0208,Chloe,Sharma,chloe.sharma@north-labs-96.example.com,(556) 555-6770,North Labs 96,150,Education,UAE,Webinar,NEW,2026-09-08,
+L0209,Ethan,Iyer,ethan.iyer@bright-studio-1.example.com,,Bright Studio 1,25,Healthcare,UK,Partner,Working,2026-09-20,k.dsouza
+L0210,Emma,Brown,emma.brown@north-works-87.example.com,+91 9834064874,North Works 87,250,Manufacturing,IN,Website,Disqualified,2026-05-27,s.ali
+L0211,Dev,Roy,dev.roy@nova-foods-46.example.com,12345,Nova Foods 46,650,Healthcare,UK,Website,Working,2026-09-16,m.chen
+L0212,Lucas,Silva,lucas.silva@apex-studio-70.example.com,12345,Apex Studio 70,12,Retail,UK,Paid Search,Converted,2026-08-30,a.rao
+L0213,Rohan,Fox,rohan.fox@apex-systems-42.example.com,(804) 555-1739,Apex Systems 42,12,Financial Services,UAE,Website,qualified,2026-08-01,s.ali
+L0214,Emma,Rossi,emma.rossi@blue-works-76.example.com,,Blue Works 76,12,Retail,IN,Partner,Qualified,2026-09-05,m.chen
+L0215,Dev,Garcia,dev.garcia@zen-finance-35.example.com,12345,Zen Finance 35,25,Software,USA,Trade Show,Disqualified,2026-03-08,s.ali
+L0216,Nina,Brown,nina.brown@orbit-systems-82.example.com,+91 9892466364,Orbit Systems 82,1200,Financial Services,UK,Webinar,Disqualified,2026-04-07,k.dsouza
+L0217,Aarav,Mehta,aarav.mehta@nova-works-63.example.com,(632) 555-1606,Nova Works 63,1200,Healthcare,India,Referral,Qualified,2026-03-19,m.chen
+L0218,Sofia,Kapoor,sofia.kapoor@zen-studio-33.example.com,,Zen Studio 33,650,Manufacturing,United Kingdom,Outbound,Converted,2025-08-30,
+L0219,Sofia,Silva,sofia.silva@summit-works-50.example.com,+91 9862744287,Summit Works 50,12,Healthcare,USA,Webinar,new,2026-10-22,s.ali
+L0220,Emma,Müller,emma.muller@cedar-health-21.example.com,12345,Cedar Health 21,150,Manufacturing,US,Paid Search,New,2026-10-10,a.rao
+L0221,Noah,Rossi,noah.rossi@bright-mobility-42.example.com,,Bright Mobility 42,150,Retail,UAE,Webinar,lost,2026-07-29,a.rao
+L0222,Noah,Smith,noah.smith@apex-labs-73.example.com,12345,Apex Labs 73,25,Retail,UK,Website,Qualified,2026-08-11,
+L0223,Hana,Das,hana.das@summit-finance-75.example.com,(210) 555-8682,Summit Finance 75,650,Education,United Kingdom,Partner,Qualified,2026-08-14,
+L0224,Lucas,Nguyen,lucas.nguyen@pioneer-works-44.example.com,12345,Pioneer Works 44,650,Software,US,Website,Converted,2026-07-14,s.ali
+L0225,Emma,Garcia,emma.garcia@orbit-logistics-57.example.com,12345,Orbit Logistics 57,250,Education,india,Website,New,2026-09-28,a.rao
+L0226,Isha,Kapoor,isha.kapoor@nova-mobility-85.example.com,(797) 555-1067,Nova Mobility 85,3000,Software,United States,Outbound,qualified,2026-06-02,
+L0227,Dev,Khan,dev.khan@summit-logistics-83.example.com,12345,Summit Logistics 83,150,Financial Services,india,Webinar,Qualified,2026-07-17,a.rao
+L0228,Hana,Khan,hana.khan@apex-health-48.example.com,12345,Apex Health 48,1200,Manufacturing,UAE,Paid Search,Converted,02/08/2026,s.ali
+L0229,Maya,Kapoor,maya.kapoor@north-studio-55.example.com,,North Studio 55,400,Software,Germany,Website,New,2026-10-28,
+L0230,Kabir,Das,kabir.das@zen-systems-44.example.com,,Zen Systems 44,40,Software,United Kingdom,Trade Show,Disqualified,2026-07-30,a.rao
+L0231,Hana,Walker,hana.walker@nova-mobility-79.example.com,(509) 555-2435,Nova Mobility 79,250,Healthcare,IN,Outbound,New,2026-11-09,
+L0232,Noah,Mehta,noah.mehta@cedar-studio-25.example.com,(988) 555-8592,Cedar Studio 25,25,Software,IN,Webinar,New,2026-10-23,
+L0233,Rohan,Patel,rohan.patel@apex-logistics-14.example.com,+91 9865792417,Apex Logistics 14,400,Retail,Germany,Trade Show,Qualified,2026-04-05,
+L0234,Rohan,Costa,rohan.costa@apex-works-21.example.com,12345,Apex Works 21,3000,Healthcare,india,Trade Show,Converted,2026-01-09,a.rao
+L0235,Olivia,Rossi,olivia.rossi@bright-studio-78.example.com,+91 9816767531,Bright Studio 78,25,Manufacturing,UAE,Outbound,New,2026-10-29,
+L0236,Sofia,Brown,sofia.brown@apex-labs-94.example.com,12345,Apex Labs 94,150,Software,india,Partner,NEW,2026-09-26,m.chen
+L0237,Emma,Sharma,emma.sharma@summit-works-44.example.com,,Summit Works 44,150,Retail,US,Partner,new,2025-05-25,k.dsouza
+L0238,Emma,Das,emma.das@pioneer-finance-4.example.com,+91 9829539994,Pioneer Finance 4,650,Financial Services,United Kingdom,Outbound,New,21/10/2026,s.ali
+L0239,Dev,Patel,dev.patel@pioneer-systems-54.example.com,,Pioneer Systems 54,,Financial Services,Germany,Trade Show,qualified,2026-08-31,
+L0240,Isha,Sharma,isha.sharma@blue-studio-76.example.com,+91 9842392076,Blue Studio 76,150,Financial Services,USA,Partner,Converted,2026-01-01,m.chen
+L9000,Liam,Müller,Liam.Muller@Orbit-Logistics-34.Example.Com,,Orbit Logistics 34,80,Software,India,Website,Disqualified,2026-11-13,s.ali
+L9001,Hana,Patel,  HANA.PATEL@BRIGHT-WORKS-57.EXAMPLE.COM ,,Bright Works 57,12,Manufacturing,Germany,Trade Show,Lost,2026-11-12,k.dsouza
+L9002,Isha,Singh,Isha.Singh@Pioneer-Labs-57.Example.Com,,Pioneer Labs 57,80,Education,UAE,Paid Search,new,2026-11-12,a.rao
+L9003,Dev,Silva,  DEV.SILVA@SUMMIT-WORKS-27.EXAMPLE.COM ,,Summit Works 27,250,Software,UK,Webinar,Converted,2026-11-12,
+L9004,Lucas,Nguyen,Lucas.Nguyen@Nova-Works-38.Example.Com,,Nova Works 38,250,Healthcare,United Kingdom,Outbound,New,2026-11-12,m.chen
+L9005,Noah,Lee,  NOAH.LEE@ZEN-FOODS-47.EXAMPLE.COM ,,Zen Foods 47,,Software,India,Referral,New,2026-11-12,a.rao
+L9006,Rohan,Brown,Rohan.Brown@Cedar-Studio-72.Example.Com,,Cedar Studio 72,650,Manufacturing,US,Outbound,Converted,2026-11-15,s.ali
+L9007,Sofia,Patel,  SOFIA.PATEL@ZEN-FOODS-85.EXAMPLE.COM ,,Zen Foods 85,650,Manufacturing,IN,Website,Working,2026-11-15,
+L9008,Ethan,Müller,Ethan.Muller@Zen-Labs-41.Example.Com,,Zen Labs 41,250,Software,US,Webinar,working,2026-11-12,a.rao
+L9009,Dev,Roy,  DEV.ROY@NOVA-FOODS-46.EXAMPLE.COM ,,Nova Foods 46,650,Healthcare,UK,Website,Working,2026-11-12,m.chen
+L8000,Anon,Visitor0,,,,,,,Website,New,2026-11-09,
+L8001,Anon,Visitor1,,,,,,,Website,New,2026-10-31,
+L8002,Anon,Visitor2,,,,,,,Website,New,2026-11-04,
+L8003,Anon,Visitor3,,,,,,,Website,New,2026-11-02,
+L8004,Anon,Visitor4,,,,,,,Website,New,2026-10-28,
+L8500,Bad,Email0,john.doe@@mail.com,,Test Co,10,Retail,India,Trade Show,New,2026-09-26,
+L8501,Bad,Email1,no-at-sign.com,,Test Co,10,Retail,India,Trade Show,New,2026-10-22,
+L8502,Bad,Email2,a@b,,Test Co,10,Retail,India,Trade Show,New,2026-10-16,
+L8503,Bad,Email3,x y@z.com,,Test Co,10,Retail,India,Trade Show,New,2026-09-23,
