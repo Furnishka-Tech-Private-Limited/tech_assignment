@@ -70,7 +70,7 @@ Using your warehouse, answer:
 
 ## 4. Deliverables
 
-Please send a repository (or zip) containing:
+Submit in **your own private GitHub repository** (see the README in this folder for the exact steps: add the reviewer as a collaborator and email us the link before the deadline). Your repository should contain:
 
 1. `README.md`: how to set up and run your pipeline in a few commands.
 2. `docs/lifecycle_design.md`: Part A.
