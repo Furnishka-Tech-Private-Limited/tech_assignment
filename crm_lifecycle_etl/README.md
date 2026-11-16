@@ -2,6 +2,14 @@
 
 This folder contains everything you need for the **CRM Lifecycle ETL** assignment. You will build an ETL pipeline that cleans CRM data, works out where each lead is in the customer lifecycle, and routes it to the right team (Inside Sales, Enterprise Sales, Onboarding, Service, Renewals, Win-back and more).
 
+## Welcome
+
+Thank you for your interest in joining Furnishka, and for taking the time to do this assignment. It is a small version of a problem we solve for real: turning raw CRM data into clear, trustworthy work queues for each team, so that every lead, customer and renewal reaches the right person at the right moment.
+
+We are not looking for a perfect answer. We want to see how you think about the customer journey, how you handle messy data, and how clearly you explain your choices. Good luck, and enjoy it.
+
+---
+
 > This is separate from the Meta lead-fetcher assignment elsewhere in this repository. Work only from this folder unless you were told otherwise.
 
 **Time box:** 4 to 6 hours. We value clear thinking over polish.

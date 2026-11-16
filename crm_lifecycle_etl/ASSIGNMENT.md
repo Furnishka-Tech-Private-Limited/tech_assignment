@@ -6,6 +6,18 @@
 
 ---
 
+## Welcome
+
+Thank you for your interest in joining Furnishka, and for taking the time to do this assignment.
+
+Customer data is only useful if the right person acts on it at the right moment. A new enquiry, a customer waiting on a support issue and a contract about to renew each need a different team and a different next step. This assignment is a small version of a problem we solve for real: turning raw CRM data into clear, trustworthy work queues for each team.
+
+We are not looking for a perfect answer. We want to see how you think about the customer journey, how you handle messy data, and how clearly you explain your choices. Use any tools you like, including AI tools, but be ready to walk us through your decisions.
+
+Good luck, and enjoy it.
+
+---
+
 ## 1. Scenario
 
 You have joined a company that sells subscription software. Its CRM holds leads, sales activity, opportunities, orders and support tickets. Today every lead lands in one shared queue, so:
